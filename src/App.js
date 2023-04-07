@@ -43,6 +43,8 @@ function App() {
       </div>
     </div>
   );
+  // teste para o git
+  console.log ("Adicionando essa linha para teste")
 }
 
 export default App;
